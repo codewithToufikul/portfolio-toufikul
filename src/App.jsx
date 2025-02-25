@@ -222,7 +222,7 @@ function App() {
                   />
                 </p>
                 <a
-                  href="/resume.pdf"
+                  href="/Resume-Toufikul-Islam.pdf"
                   download
                   className=" animate-bounce cursor-pointer text-xl font-semibold btn bg-orange-700 border-none text-white"
                 >
@@ -259,7 +259,7 @@ function App() {
             <div className="flex md:flex-row gap-4 flex-col-reverse items-center justify-between md:mt-16 mt-8  lg:mt-24">
               <Tilt options={defaultOptions}>
                 <div className="card bg-gradient-to-r from-cyan-500 to-blue-500 lg:w-96 shadow-2xl shadow-cyan-500/50">
-                  <div className="card-body p-3 items-center text-center">
+                  <div className="card-body p-3  items-center text-center">
                     <img className="rounded-2xl" src={myphoto} alt="" />
                   </div>
                 </div>
